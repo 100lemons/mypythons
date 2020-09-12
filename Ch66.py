@@ -12,5 +12,5 @@ R.forward(70)
 R.right(90)
 R.forward(200)
 U.left(900)
-U.forward(1000)
+U.forward(500)
 
